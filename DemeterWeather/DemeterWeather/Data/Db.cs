@@ -22,7 +22,7 @@ namespace DemeterProject.Data
         {
             List<ResultList> list = new List<ResultList>();
             var collection = database.Region;
-            foreach (var item in collection.Find(s => s.Place.Contains(prefix)).ToList())
+            foreach (var item in collection.Find(s => s.Place.ToLower().Contains(prefix)).ToList())
             {
                 list.Add(new ResultList
                 {
