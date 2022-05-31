@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "kiGpSinmjBjhXWlFjBl7oEzKQLOP8EtfGBtCtYjBgizxUQ2rCozUzYdI6TlF5VvRtE19tl2hVtHwfJ4Zn7vSGA==",
+  "dgSpecHash": "TvXnCBdNvnaY9r3m/yx5bjhbj3hBWtb3oYHsMDnnt6LDvBztaTqN0TG1pREcvJ5F0LMM8ch9l+PEGALGj6dfhw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Omachi\\Documents\\GitHub\\demeter-weather\\DemeterWeather\\DemeterWeather\\DemeterWeather.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Omachi\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
+    "C:\\Users\\Omachi\\.nuget\\packages\\fuzzysharp\\2.0.2\\fuzzysharp.2.0.2.nupkg.sha512",
     "C:\\Users\\Omachi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Omachi\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Omachi\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
