@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Omachi\\Documents\\GitHub\\demeter-weather\\DemeterWeather\\DemeterWeather\\DemeterWeather.csproj": {}
+    "C:\\Users\\Omachi\\Documents\\GitHub\\demeter\\DemeterWeather\\DemeterWeather\\DemeterWeather.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Omachi\\Documents\\GitHub\\demeter-weather\\DemeterWeather\\DemeterWeather\\DemeterWeather.csproj": {
+    "C:\\Users\\Omachi\\Documents\\GitHub\\demeter\\DemeterWeather\\DemeterWeather\\DemeterWeather.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omachi\\Documents\\GitHub\\demeter-weather\\DemeterWeather\\DemeterWeather\\DemeterWeather.csproj",
+        "projectUniqueName": "C:\\Users\\Omachi\\Documents\\GitHub\\demeter\\DemeterWeather\\DemeterWeather\\DemeterWeather.csproj",
         "projectName": "DemeterWeather",
-        "projectPath": "C:\\Users\\Omachi\\Documents\\GitHub\\demeter-weather\\DemeterWeather\\DemeterWeather\\DemeterWeather.csproj",
+        "projectPath": "C:\\Users\\Omachi\\Documents\\GitHub\\demeter\\DemeterWeather\\DemeterWeather\\DemeterWeather.csproj",
         "packagesPath": "C:\\Users\\Omachi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omachi\\Documents\\GitHub\\demeter-weather\\DemeterWeather\\DemeterWeather\\obj\\",
+        "outputPath": "C:\\Users\\Omachi\\Documents\\GitHub\\demeter\\DemeterWeather\\DemeterWeather\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Omachi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TvXnCBdNvnaY9r3m/yx5bjhbj3hBWtb3oYHsMDnnt6LDvBztaTqN0TG1pREcvJ5F0LMM8ch9l+PEGALGj6dfhw==",
+  "dgSpecHash": "5ULxxte/m2GKjJQFVeV1THBh1hr3Wj8fipF6YX9t/4EsmoGLi5HEmGwHkE6m+xD2lUwE/eJgNdz+1t8wD0hOfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Omachi\\Documents\\GitHub\\demeter-weather\\DemeterWeather\\DemeterWeather\\DemeterWeather.csproj",
+  "projectFilePath": "C:\\Users\\Omachi\\Documents\\GitHub\\demeter\\DemeterWeather\\DemeterWeather\\DemeterWeather.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Omachi\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
     "C:\\Users\\Omachi\\.nuget\\packages\\fuzzysharp\\2.0.2\\fuzzysharp.2.0.2.nupkg.sha512",
